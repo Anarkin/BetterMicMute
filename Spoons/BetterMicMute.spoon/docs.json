@@ -1,0 +1,81 @@
+[
+  {
+    "Constant" : [
+
+    ],
+    "submodules" : [
+
+    ],
+    "Function" : [
+
+    ],
+    "Variable" : [
+
+    ],
+    "stripped_doc" : [
+
+    ],
+    "Deprecated" : [
+
+    ],
+    "type" : "Module",
+    "desc" : "Microphone mute toggle and status indicator",
+    "Constructor" : [
+
+    ],
+    "doc" : "Microphone mute toggle and status indicator\n\nAdditionally, whenever an external process changes input settings, the spoon will override to the user's original intention\n\nTo configure, override the spoon.config table, e.g.\n   spoon.BetterMicMute.config.menuTextMuted = \"lalala\"",
+    "Method" : [
+      {
+        "def" : "BetterMicMute:bindHotkeys(map)",
+        "stripped_doc" : [
+          "Binds hotkeys for BetterMicMute",
+          ""
+        ],
+        "doc" : "Binds hotkeys for BetterMicMute\n\nParameters:\n * map - A table expecting toggleModifiers and toggleKey",
+        "desc" : "Binds hotkeys for BetterMicMute",
+        "notes" : [
+
+        ],
+        "signature" : "BetterMicMute:bindHotkeys(map)",
+        "type" : "Method",
+        "returns" : [
+
+        ],
+        "name" : "bindHotkeys",
+        "parameters" : [
+          " * map - A table expecting toggleModifiers and toggleKey"
+        ]
+      }
+    ],
+    "Command" : [
+
+    ],
+    "Field" : [
+
+    ],
+    "items" : [
+      {
+        "def" : "BetterMicMute:bindHotkeys(map)",
+        "stripped_doc" : [
+          "Binds hotkeys for BetterMicMute",
+          ""
+        ],
+        "doc" : "Binds hotkeys for BetterMicMute\n\nParameters:\n * map - A table expecting toggleModifiers and toggleKey",
+        "desc" : "Binds hotkeys for BetterMicMute",
+        "notes" : [
+
+        ],
+        "signature" : "BetterMicMute:bindHotkeys(map)",
+        "type" : "Method",
+        "returns" : [
+
+        ],
+        "name" : "bindHotkeys",
+        "parameters" : [
+          " * map - A table expecting toggleModifiers and toggleKey"
+        ]
+      }
+    ],
+    "name" : "BetterMicMute"
+  }
+]
