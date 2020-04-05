@@ -9,3 +9,9 @@ Microphone mute toggle and status indicator. Whenever an external process change
 - Get familiar with [Hammerspoon](https://www.hammerspoon.org) first
 - Get familiar with the BetterMicMute spoon ([relative link](Spoons/BetterMicMute.spoon/init.lua))
 - See [init.lua](init.lua) for the simplest working configuration to get started
+
+## Screenshots
+
+Status indicator in action:
+
+![Status indicator in action](Assets/screenshot0.png)
